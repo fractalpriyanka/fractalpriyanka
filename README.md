@@ -5,7 +5,7 @@ I am deeply intrigued by the field of Data Science, drawn to its ubiquitous appl
 ## Interest:
 1. Machine Learning / Deep Learning: CNN,RNNs, NLP, SVM Regression, Decision Trees / Random Forest, Logistic Regression
 2. Coding Python, JavaScript, MySQL,HTML/CSS.
-3. Data Visualization Tools: Tableau, PowerBI.
+3. Data Visualization Tools: Python, Tableau, PowerBI.
 4. Platforms: Anaconda, VScode,Pycharm, Colab
 
 ## Projects:
