@@ -54,26 +54,19 @@
   Image processing & statistical analysis for fluid mechanics experiments
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
+  <img
+    alt="Priyanka Singh GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" />
+  <img
+    alt="Priyanka Singh GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight&hide_border=true"
+  />
 </p>
 
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/github-contribution-grid-snake-dark.svg">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/github-contribution-grid-snake.svg">
-    <!-- Fallback -->
-    <img alt="github contribution snake animation" 
-         src="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 > *“Build models that don’t just predict — but explain, scale, and matter.”*
 
