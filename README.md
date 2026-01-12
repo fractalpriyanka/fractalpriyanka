@@ -22,28 +22,9 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,powerbi,flask,fastapi,streamlit,render,n8n,sql,git,github,docker&perline=20&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,powerbi" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,render" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=n8n" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,git,github,docker" />
-</p>
 
 ## 🚀 Featured Work
 
