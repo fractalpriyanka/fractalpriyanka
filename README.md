@@ -18,8 +18,6 @@
   </a>
 </p>
 
----
-
 ### 👩‍💻 About Me
 - 🎯 AI/ML Engineer with strong focus on **Deep Learning, RAG, NLP, and Computer Vision**
 - 🧠 Hands-on experience with **CNNs, LSTMs, GANs, Object Detection (Grounding DINO), and Predictive Modeling**
@@ -27,17 +25,15 @@
 - 🚀 Working on **research-driven and real-world AI applications**
 - 🌱 Continuously learning advanced ML architectures & deployment strategies
 
----
 
 ## 🔍 Open To Opportunities
 - AI / ML Engineer  
 - Applied ML / Research Engineer  
 - Data Scientist (ML-heavy roles)  
-- Internships & Entry-Level Full-Time Roles  
+- Entry-Level Full-Time Roles  
 
 📍 Open to **Remote | Hybrid | Relocation**
 
----
 
 ## 🛠️ Core Tech Stack
 **Languages:** Python, JavaScript  
@@ -57,36 +53,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
 ### 📚 RAG Storybook – *The Marauder’s Archive*
-🔗 **Repo | Demo**  
+🔗 **[Repo]([REPO_LINK](https://github.com/fractalpriyanka/the-marauders-archive)) | [Demo]([DEMO_LINK](https://the-marauders-archive-ggdwufkz7ku8wi8qrulappg.streamlit.app/))** 
 - FAISS-based Retrieval-Augmented Generation system using Gemini & Streamlit  
 - Achieved **Recall@K ≈ 0.73**  
 - Reduced hallucinations in long-form generation  
 **Tech:** FAISS, LLMs, Streamlit, Prompt Engineering  
 
----
 
 ### 🧠 Zero-Shot Object Detection – *Grounding DINO*
-🔗 **Repo**  
+🔗 **[Repo]([REPO_LINK](https://github.com/fractalpriyanka/grounding_dino_base_model_analysis)) 
 - COCO evaluation with prompt engineering experiments  
 - Multi-scale inference & threshold analysis  
 - Demonstrated impact of prompt specificity on mAP  
 **Tech:** PyTorch, Grounding DINO, COCO Metrics  
 
----
 
 ### 🛡️ Job Fraud Detection System – *Anveshan Hackathon 2025*
-🔗 **Repo | Demo**  
+🔗 **[Repo]([REPO_LINK](https://github.com/fractalpriyanka/Numeric-Nomads))**
 - Built a Stacking Classifier with FastAPI backend & Next.js frontend  
 - **98% Accuracy | ROC-AUC: 0.986**  
 - Deployed as a real-time fraud detection API  
 **Tech:** ML Ensembles, FastAPI, Next.js  
 
----
 
 ### 🔬 Research Intern – *IIT Mandi*
 - Image processing & statistical analysis for turbulent fluid experiments  
