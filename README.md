@@ -108,7 +108,7 @@
 </p>
 
 
-📬##  **Let’s Connect**
+## 📬 **Let’s Connect**
 - LinkedIn: https://www.linkedin.com/in/priyanka-ds/
 - Portfolio: https://techy-priyanka.lovable.app/
 
