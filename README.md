@@ -57,7 +57,7 @@
 ## 🚀 Featured Projects
 
 ### 📚 RAG Storybook – *The Marauder’s Archive*
-🔗 🔗 **[GitHub Repo]([https://github.com/fractalpriyanka/rag-storybook](https://github.com/fractalpriyanka/the-marauders-archive)) | [Live Demo](https://the-marauders-archive-ggdwufkz7ku8wi8qrulappg.streamlit.app/)**
+🔗 🔗 **[GitHub Repo](https://github.com/fractalpriyanka/rag-storybook](https://github.com/fractalpriyanka/the-marauders-archive) | [Live Demo](https://the-marauders-archive-ggdwufkz7ku8wi8qrulappg.streamlit.app/)**
 
 - FAISS-based Retrieval-Augmented Generation system using Gemini & Streamlit  
 - Achieved **Recall@K ≈ 0.73**  
