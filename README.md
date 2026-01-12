@@ -14,13 +14,7 @@
   <a href="https://www.linkedin.com/in/priyanka-ds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:priyanka00785@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/fractalpriyanka">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-  <a href="https://techy-priyanka.lovable.app/" target="_blank">
+    <a href="https://techy-priyanka.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?logo=vercel&logoColor=white" />
   </a>
 </p>
