@@ -57,7 +57,7 @@
 ## 🚀 Featured Projects
 
 ### 📚 RAG Storybook – *The Marauder’s Archive*
-🔗 🔗 **[GitHub Repo](https://github.com/fractalpriyanka/rag-storybook](https://github.com/fractalpriyanka/the-marauders-archive)) | [Live Demo](https://the-marauders-archive-ggdwufkz7ku8wi8qrulappg.streamlit.app/)**
+🔗 🔗 **[GitHub Repo](https://github.com/fractalpriyanka/the-marauders-archive)) | [Live Demo](https://the-marauders-archive-ggdwufkz7ku8wi8qrulappg.streamlit.app/)**
 
 - FAISS-based Retrieval-Augmented Generation system using Gemini & Streamlit  
 - Achieved **Recall@K ≈ 0.73**  
@@ -75,7 +75,7 @@
 
 
 ### 🛡️ Job Fraud Detection System – *Anveshan Hackathon 2025*
-🔗 **[Repo]([GitHub Repo](https://github.com/fractalpriyanka/Numeric-Nomads))**
+🔗 **([GitHub Repo](https://github.com/fractalpriyanka/Numeric-Nomads))**
 - Built a Stacking Classifier with FastAPI backend & Next.js frontend  
 - **98% Accuracy | ROC-AUC: 0.986**  
 - Deployed as a real-time fraud detection API  
