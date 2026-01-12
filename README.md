@@ -53,9 +53,6 @@
 - 🔬 **Research Intern – IIT Mandi**  
   Image processing & statistical analysis for fluid mechanics experiments
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" />
