@@ -23,15 +23,16 @@ jobs:
 
           # 👇 IMPORTANT: use hex GREY values explicitly
           color_dots: |
-            0:#1f1f1f
-            1:#2b2b2b
-            2:#3a3a3a
-            3:#4a4a4a
-            4:#5a5a5a
+            0:#30363d
+            1:#484f58
+            2:#6e7681
+            3:#8b949e
+            4:#c9d1d9
+
 
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/snake-grey.svg
+            dist/snake-grey-dark.svg
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
