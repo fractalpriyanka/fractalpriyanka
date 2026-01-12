@@ -75,7 +75,7 @@
 
 
 ### 🛡️ Job Fraud Detection System – *Anveshan Hackathon 2025*
-🔗 **([GitHub Repo](https://github.com/fractalpriyanka/Numeric-Nomads))**
+🔗 **[GitHub Repo](https://github.com/fractalpriyanka/Numeric-Nomads)**
 - Built a Stacking Classifier with FastAPI backend & Next.js frontend  
 - **98% Accuracy | ROC-AUC: 0.986**  
 - Deployed as a real-time fraud detection API  
