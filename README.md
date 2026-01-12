@@ -96,8 +96,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fractalpriyanka&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
 </p>
+
 
 
 
