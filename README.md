@@ -87,7 +87,6 @@
 - Studied breakup length & droplet size distributions  
 - Converted experimental data into ML-ready pipelines  
 
----
 
 ## 📊 GitHub Activity
 
