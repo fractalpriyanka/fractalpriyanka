@@ -78,6 +78,8 @@
   </picture>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
+
 
 
 > *“Build models that don’t just predict — but explain, scale, and matter.”*
