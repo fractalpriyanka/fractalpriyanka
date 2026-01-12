@@ -27,9 +27,38 @@
 
 ## 🛠️ Languages & Tools
 
+## 🛠️ Skills & Tools
+
+### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,tensorflow,pytorch,sklearn,pandas,numpy,sql,powerbi,opencv,sql,streamlit,render,,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass" />
 </p>
+
+### 🤖 Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+### 📊 Data Analysis & Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,powerbi" />
+</p>
+
+### 🧠 Backend & Model Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,render" />
+</p>
+
+### 🔄 Automation & Workflow Orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
+
+### 🗄️ Databases & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,git,github,docker" />
+</p>
+
 
 ---
 
