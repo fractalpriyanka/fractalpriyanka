@@ -1,89 +1,80 @@
-# 👩‍💻 Priyanka Singh | AI/ML Engineer  
+<h1 align="center">👋 Hi, I'm Priyanka Singh</h1>
+<h3 align="center">AI / ML Engineer | Data Scientist | Deep Learning & RAG Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;Data+Science+%7C+Deployment+Focused;Turning+Models+into+Products&font=Fira%20Code&center=true&width=550&height=45&color=00E5FF&vCenter=true&pause=1200" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-## 🚀 Intro  
-AI/ML Engineer focused on **machine learning, deep learning, and deployment-ready systems**.  
-I enjoy turning **data + models into real-world applications** with measurable impact.
-
----
-
-## 🔧 Current Work  
-- Building **RAG systems** with FAISS & LLMs  
-- Exploring **Computer Vision & Zero-Shot Detection**  
-- Improving **model evaluation & deployment pipelines**
-
----
-
-## 🧠 Tech Stack  
-
-**Languages**  
-- Python, SQL  
-
-**ML / DL**  
-- Scikit-learn, TensorFlow, PyTorch, Keras  
-- CNNs, RNNs, GANs, LSTMs  
-
-**NLP / RAG**  
-- FAISS, Sentence Transformers, LLM APIs  
-
-**Data & Deployment**  
-- Pandas, NumPy  
-- Streamlit, FastAPI, Flask  
-- Git & GitHub  
-
----
-
-## 🔥 Featured Projects  
-
-### 📖 RAG Storybook — *The Marauder’s Archive*  
-- Problem: Reduce hallucinations in story-based Q&A  
-- Tech: FAISS, Sentence Transformers, Streamlit  
-- Result: **Recall@K ≈ 0.73**, narrative-preserving answers  
-
-### 🖼️ Zero-Shot Object Detection — Grounding DINO  
-- Problem: Detect unseen objects using text prompts  
-- Tech: PyTorch, COCO evaluation  
-- Result: Improved AP with **descriptive prompts**  
-
-### 🕵️ Job Fraud Detection System  
-- Problem: Identify fraudulent job postings  
-- Tech: TF-IDF, LightGBM, FastAPI  
-- Result: **98% Accuracy | ROC-AUC 0.986**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fractalpriyanka&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <a href="https://www.linkedin.com/in/priyanka-ds/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyanka00785@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/fractalpriyanka">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Learning Goals  
-- Advanced **RAG architectures**  
-- **System design** for ML products  
-- Stronger **Computer Vision pipelines**  
-- Scalable deployment practices  
+## 👩‍💻 About Me
+
+- 🎯 AI/ML & Data Science professional with strong focus on **Deep Learning, RAG, NLP, and Computer Vision**
+- 🧠 Experienced with **CNNs, LSTMs, GANs, Object Detection (Grounding DINO), and Predictive Modeling**
+- 🔍 Built **production-ready ML systems** with emphasis on **accuracy, scalability, and explainability**
+- 🚀 Currently working on **research + real-world AI applications**
+- 🌱 Always learning and exploring advanced ML architectures and deployment strategies
 
 ---
 
-## 📫 Contact  
-- 📧 Email: priyanka00785@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/priyanka-ds/  
-- 🧑‍💻 GitHub: https://github.com/fractalpriyanka  
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,sql,git,github,streamlit,flask,fastapi" />
+</p>
 
 ---
 
-## 🌱 Personal Note  
-Practicing **yoga**, staying curious, and learning every day — one model at a time 🧘‍♀️✨
+## 🚀 Featured Work
+
+- 📚 **RAG Storybook – The Marauder’s Archive**  
+  FAISS-based Retrieval-Augmented Generation system with Gemini & Streamlit  
+  → Recall@K ≈ **0.73**, reduced hallucinations on long-form text
+
+- 🧠 **Zero-Shot Object Detection (Grounding DINO)**  
+  COCO evaluation, prompt engineering analysis, multi-scale inference insights
+
+- 🛡️ **Job Fraud Detection System (Anveshan Hackathon 2025)**  
+  Stacking Classifier + FastAPI + Next.js  
+  → **98% Accuracy | ROC-AUC 0.986**
+
+- 🔬 **Research Intern – IIT Mandi**  
+  Image processing & statistical analysis for fluid mechanics experiments
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote I Believe In
+
+> *“Build models that don’t just predict — but explain, scale, and matter.”*
+
+---
+
+⭐ If you like my work, feel free to **star repositories** and **connect with me!**
