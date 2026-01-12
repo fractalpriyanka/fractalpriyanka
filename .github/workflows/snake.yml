@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,17 +17,21 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: fractalpriyanka
+
+          # Snake color
           color_snake: "#7C3AED"
+
+          # 👇 IMPORTANT: use hex GREY values explicitly
           color_dots: |
-            0:#2a2a2a
-            10:#3a3a3a
-            20:#4a4a4a
-            30:#5a5a5a
-            40:#6a6a6a
+            0:#1f1f1f
+            1:#2b2b2b
+            2:#3a3a3a
+            3:#4a4a4a
+            4:#5a5a5a
+
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
