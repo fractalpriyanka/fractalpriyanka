@@ -1,5 +1,14 @@
-<h1 align="center">👋 Hi, I'm Priyanka Singh</h1>
-<h3 align="center">AI / ML Engineer | Data Scientist | Deep Learning & RAG Specialist</h3>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#1f6feb;">Priyanka Singh</span>
+</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Data+Scientist;Deep+Learning+%26+RAG+Specialist"
+    alt="Typing animation"
+  />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-ds/" target="_blank">
@@ -10,6 +19,9 @@
   </a>
   <a href="https://github.com/fractalpriyanka">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
+  <a href="https://techy-priyanka.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?logo=vercel&logoColor=white" />
   </a>
 </p>
 
