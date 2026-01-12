@@ -13,54 +13,37 @@
   </a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
 - 🎯 AI/ML & Data Science professional with strong focus on **Deep Learning, RAG, NLP, and Computer Vision**
 - 🧠 Experienced with **CNNs, LSTMs, GANs, Object Detection (Grounding DINO), and Predictive Modeling**
 - 🔍 Built **production-ready ML systems** with emphasis on **accuracy, scalability, and explainability**
 - 🚀 Currently working on **research + real-world AI applications**
 - 🌱 Always learning and exploring advanced ML architectures and deployment strategies
 
----
-
-## 🛠️ Languages & Tools
-
 ## 🛠️ Skills & Tools
 
-### 🌐 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,sass" />
 </p>
 
-### 🤖 Machine Learning & Deep Learning
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
-### 📊 Data Analysis & Computer Vision
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv,powerbi" />
 </p>
 
-### 🧠 Backend & Model Deployment
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,render" />
 </p>
 
-### 🔄 Automation & Workflow Orchestration
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=n8n" />
 </p>
 
-### 🗄️ Databases & Version Control
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=sql,git,github,docker" />
 </p>
-
-
----
 
 ## 🚀 Featured Work
 
@@ -78,10 +61,6 @@
 - 🔬 **Research Intern – IIT Mandi**  
   Image processing & statistical analysis for fluid mechanics experiments
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
 </p>
@@ -89,10 +68,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -108,13 +83,5 @@
   </picture>
 </p>
 
-
----
-
-## ✨ Quote I Believe In
-
 > *“Build models that don’t just predict — but explain, scale, and matter.”*
 
----
-
-⭐ If you like my work, feel free to **star repositories** and **connect with me!**
