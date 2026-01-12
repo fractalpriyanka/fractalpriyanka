@@ -28,7 +28,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,sql,git,github,streamlit,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,tensorflow,pytorch,sklearn,pandas,numpy,sql,powerbi,opencv,sql,streamlit,render,,flask,fastapi" />
 </p>
 
 ---
