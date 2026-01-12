@@ -22,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
