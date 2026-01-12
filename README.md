@@ -9,78 +9,117 @@
   />
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-ds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://techy-priyanka.lovable.app/" target="_blank">
+  <a href="https://techy-priyanka.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?logo=vercel&logoColor=white" />
   </a>
 </p>
 
-- 🎯 AI/ML & Data Science professional with strong focus on **Deep Learning, RAG, NLP, and Computer Vision**
-- 🧠 Experienced with **CNNs, LSTMs, GANs, Object Detection (Grounding DINO), and Predictive Modeling**
-- 🔍 Built **production-ready ML systems** with emphasis on **accuracy, scalability, and explainability**
-- 🚀 Currently working on **research + real-world AI applications**
-- 🌱 Always learning and exploring advanced ML architectures and deployment strategies
+---
 
-## 🛠️ Skills & Tools
+### 👩‍💻 About Me
+- 🎯 AI/ML Engineer with strong focus on **Deep Learning, RAG, NLP, and Computer Vision**
+- 🧠 Hands-on experience with **CNNs, LSTMs, GANs, Object Detection (Grounding DINO), and Predictive Modeling**
+- 🔍 Built **production-ready ML systems** emphasizing **accuracy, scalability, and explainability**
+- 🚀 Working on **research-driven and real-world AI applications**
+- 🌱 Continuously learning advanced ML architectures & deployment strategies
+
+---
+
+## 🔍 Open To Opportunities
+- AI / ML Engineer  
+- Applied ML / Research Engineer  
+- Data Scientist (ML-heavy roles)  
+- Internships & Entry-Level Full-Time Roles  
+
+📍 Open to **Remote | Hybrid | Relocation**
+
+---
+
+## 🛠️ Core Tech Stack
+**Languages:** Python, JavaScript  
+**ML / DL:** PyTorch, TensorFlow, CNNs, GANs, Transformers  
+**NLP / RAG:** FAISS, Embeddings, Prompt Engineering  
+**Computer Vision:** OpenCV, Grounding DINO, COCO Evaluation  
+**Backend:** FastAPI, Flask  
+**MLOps:** Docker, Git, GitHub  
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-## 🚀 Featured Work
-- 📚 **RAG Storybook – The Marauder’s Archive**  
-  FAISS-based Retrieval-Augmented Generation system with Gemini & Streamlit  
-  → Recall@K ≈ **0.73**, reduced hallucinations on long-form text
+---
 
-- 🧠 **Zero-Shot Object Detection (Grounding DINO)**  
-  COCO evaluation, prompt engineering analysis, multi-scale inference insights
+## 🚀 Featured Projects
 
-- 🛡️ **Job Fraud Detection System (Anveshan Hackathon 2025)**  
-  Stacking Classifier + FastAPI + Next.js  
-  → **98% Accuracy | ROC-AUC 0.986**
+### 📚 RAG Storybook – *The Marauder’s Archive*
+🔗 **Repo | Demo**  
+- FAISS-based Retrieval-Augmented Generation system using Gemini & Streamlit  
+- Achieved **Recall@K ≈ 0.73**  
+- Reduced hallucinations in long-form generation  
+**Tech:** FAISS, LLMs, Streamlit, Prompt Engineering  
 
-- 🔬 **Research Intern – IIT Mandi**  
-  Image processing & statistical analysis for fluid mechanics experiments
+---
 
+### 🧠 Zero-Shot Object Detection – *Grounding DINO*
+🔗 **Repo**  
+- COCO evaluation with prompt engineering experiments  
+- Multi-scale inference & threshold analysis  
+- Demonstrated impact of prompt specificity on mAP  
+**Tech:** PyTorch, Grounding DINO, COCO Metrics  
+
+---
+
+### 🛡️ Job Fraud Detection System – *Anveshan Hackathon 2025*
+🔗 **Repo | Demo**  
+- Built a Stacking Classifier with FastAPI backend & Next.js frontend  
+- **98% Accuracy | ROC-AUC: 0.986**  
+- Deployed as a real-time fraud detection API  
+**Tech:** ML Ensembles, FastAPI, Next.js  
+
+---
+
+### 🔬 Research Intern – *IIT Mandi*
+- Image processing & statistical analysis for turbulent fluid experiments  
+- Studied breakup length & droplet size distributions  
+- Converted experimental data into ML-ready pipelines  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey-dark.svg">
+      srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey-dark.svg">
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey.svg">
+      srcset="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey.svg">
     <img alt="github contribution snake animation"
-         src="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey-dark.svg">
+      src="https://raw.githubusercontent.com/fractalpriyanka/fractalpriyanka/output/snake-grey-dark.svg">
   </picture>
 </p>
 
-  </picture>
-</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=fractalpriyanka&show_icons=true&theme=tokyonight" />
-
-
+📬 **Let’s Connect**
+- LinkedIn: https://www.linkedin.com/in/priyanka-ds/
+- Portfolio: https://techy-priyanka.lovable.app/
 
 > *“Build models that don’t just predict — but explain, scale, and matter.”*
-
