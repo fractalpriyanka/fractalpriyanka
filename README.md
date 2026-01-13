@@ -90,7 +90,7 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fractalpriyanka&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fractalpriyanka&theme=tokyonight" /> </p>
 
 
 
